@@ -1,0 +1,12 @@
+{
+  "repoType": "github",
+  "repoDetails": {
+    "login": "arisarcmarket",
+    "repo": "moonbeamexplorer",
+    "branch": "master"
+  },
+  "name": "MoonbeamExplorer",
+  "description": "",
+  "version": "1.0.0",
+  "projectId": 1024
+}
