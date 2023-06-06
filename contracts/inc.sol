@@ -7,7 +7,7 @@ contract Incrementer {
 		count = 0;
 	}
 
-	function increment() public {
+	function increment1() public {
 		count++;
 	}
 }
